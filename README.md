@@ -16,7 +16,8 @@ PyPred is a trading strategy project that utilizes various technical indicators 
 - View the candlestick chart and technical indicators such as EMA and RSI.
 
 ## Features
-Candlestick Model
+
+## Candlestick Model
 The candlestick model is a charting technique used in technical analysis to identify potential price trends based on patterns. PyPred provides a candlestick chart to visualize the stock's historical data, including the opening price, closing price, high, and low.
 
 ## EMA Indicator
